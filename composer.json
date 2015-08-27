@@ -1,22 +1,20 @@
 {
-	"name": "m35/thecsv",
-	"description": "yii2 csv export extension",
+	"name": "panrus/thecsv",
+	"description": "yii2 csv export extension (fork from 13552277443/yii2-thecsv)",
 	"license": "MIT",
 	"keywords": ["csv", "yii2", "yii", "export"],
 	"homepage": "https://github.com/13552277443/yii2-thecsv",
 	"type": "yii2-extension",
 	"authors": [
 		{
-			"name": "m35",
-			"email": "wsskoko@126.com",
-			"homepage": "https://github.com/13552277443/",
-			"role": "Creator"
+			"name": "panrus",
+			"email": "panrus@panrussian.ru",
 		}
 	],
 	"require": {},
 	"autoload": {
 		"psr-4": {
-			"m35\\thecsv\\": ""
+			"panrus\\thecsv\\": ""
 		}
 	}
 }
