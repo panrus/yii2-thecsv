@@ -1,5 +1,5 @@
 <?php
-namespace m35\thecsv;
+namespace panrus\thecsv;
 
 class theCsv {
 
