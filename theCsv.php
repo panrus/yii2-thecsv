@@ -93,7 +93,7 @@ class theCsv {
                 }
             } else if (isset($parameter['data'])) {
                 foreach ($parameter['data'] as $row) {
-                    fputcsv($fp, $row);
+                    fputcsv($fp, $row, ";");
                 }
             }
             return true;
